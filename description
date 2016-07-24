@@ -1,0 +1,2 @@
+PrompTextField api is created using the interface "FocusListener" on JTextfields to create promptText/Placeholder/hint in java library Javax.Swing..
+This prompt text property is now available in "swingx" libaray but swingx library is a bit slower than javax.swing library as it is newer with new properties. So if someone wants to use placeholder/hint in javax.swing library then it will be very helpful
